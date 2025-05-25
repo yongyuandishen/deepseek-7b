@@ -1,0 +1,2 @@
+# deepseek-7b
+采用逐步蒸馏的方式用deepseek-r1提供rationale来训练deepseek-7b,使其能在单卡3090上部署媲美完整版的模型效能
