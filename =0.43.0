@@ -1,0 +1,4 @@
+Looking in indexes: https://pypi.tuna.tsinghua.edu.cn/simple
+Requirement already satisfied: bitsandbytes in /home/zdb/miniconda3/envs/deepseek-7b/lib/python3.10/site-packages (0.42.0)
+Requirement already satisfied: scipy in /home/zdb/miniconda3/envs/deepseek-7b/lib/python3.10/site-packages (from bitsandbytes) (1.15.2)
+Requirement already satisfied: numpy<2.5,>=1.23.5 in /home/zdb/miniconda3/envs/deepseek-7b/lib/python3.10/site-packages (from scipy->bitsandbytes) (2.1.2)
